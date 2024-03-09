@@ -107,7 +107,7 @@ PyJWT==2.4.0
 pyOpenSSL==22.0.0
 pyparsing==3.1.1
 PyQt5==5.12.3
-PyQt5_sip==4.19.18
+PyQt5_sip==12.9.0
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
 PySocks==1.7.1
