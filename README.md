@@ -1,9 +1,10 @@
 # Image captioning
 ## setup
-1 - clone the repository in your system \n
+
+```1 - clone the repository in your system
 2 - make a virtual environment
 3 - run command pip install -r requirements.txt
-4 - open develop.py file and run it (in develop.py you can change model you are using)
+4 - open develop.py file and run it (in develop.py you can change model you are using)```
 
 ### vgg_16_trained.ipynb ---> model trained with base model vgg16 with augmented data
 
